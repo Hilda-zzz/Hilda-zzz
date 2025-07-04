@@ -12,7 +12,7 @@
 
 **Programming Languages:**
 ```
-C++ | C# | GLSL | HLSL | Python | Lua
+C++ | C# | GLSL | HLSL | Python
 ```
 
 **Game Engines & Graphics:**
@@ -48,7 +48,6 @@ Currently developing a modern game engine using Vulkan API, focusing on high-per
 
 ---
 
-*"Building worlds, one engine at a time"* ✨
 
 <!--
 **Hilda-zzz/Hilda-zzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
