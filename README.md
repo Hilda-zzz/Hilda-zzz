@@ -1,4 +1,5 @@
 # Hi there, I'm Hilda! 👋🎮
+![screen_9000x2500_23-11-02_17-29-15](https://github.com/user-attachments/assets/a041db6c-2743-4fa9-8300-6b432f27d287)
 
 **Game Developer & Engine Programmer** | Currently pursuing Master's at SMU Guildhall
 
